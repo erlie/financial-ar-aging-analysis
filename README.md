@@ -1,6 +1,6 @@
 # 📊 Accounts Receivable (AR) & Financial Aging Analytics
 
-![Dashboard Preview](assets/dashboard_preview.png)
+![Dashboard Preview](https://via.placeholder.com/800x400.png?text=Financial+Aging+Dashboard+Preview)
 
 ## 📌 Executive Summary
 Proyek ini bertujuan untuk mengoptimalkan analisis piutang usaha (*Accounts Receivable*) dan siklus arus kas perusahaan melalui pengolahan data transaksi, *data cleaning*, serta visualisasi *aging buckets*. 
